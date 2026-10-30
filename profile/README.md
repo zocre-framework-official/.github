@@ -1,6 +1,8 @@
+<!-- ZOCRE_FRAMEWORK_ARTWORK_START -->
 <p align="center">
-  <img src="assets/branding/ncore-framework-logo-official.png" alt="ZOcre Framework official logo" width="420">
+  <img src="https://github.com/zocre-framework-official.png" alt="ZOcre Framework official GitHub organization avatar" width="260">
 </p>
+<!-- ZOCRE_FRAMEWORK_ARTWORK_END -->
 
 <h1 align="center">ZOcre Framework</h1>
 
@@ -11,8 +13,8 @@
 
 ## Directory
 
-- **[ZOcre Control](https://github.com/ncore-framework-official/ncore-control)** — application Windows officielle de gestion de serveurs NANOS / nanos world.
-- **[ZOcre Loading Screen](https://github.com/ncore-framework-official/ncore-loading-screen)** — écran de chargement officiel NCore.
+- **[ZOcre Control](https://github.com/zocre-framework-official/zocre-control)** — application Windows officielle de gestion de serveurs NANOS / nanos world.
+- **[ZOcre Loading Screen](https://github.com/zocre-framework-official/zocre-loading-screen)** — écran de chargement officiel ZOcre.
 - **[ZOcre Control Releases](https://github.com/zocre-framework-official/zocre-control/releases)** — téléchargements publics officiels.
 - **[Branding](https://github.com/zocre-framework-official/.github/blob/main/BRANDING.md)** — identités visuelles publiques officielles.
 - **[Support](https://github.com/zocre-framework-official/.github/blob/main/SUPPORT.md)** — règles et canaux de support public.
@@ -23,12 +25,12 @@
 
 <p align="center">
   <a href="https://github.com/zocre-framework-official">
-    <img src="https://img.shields.io/badge/GitHub-NCore_Framework-24292F?style=for-the-badge&logo=github&logoColor=white" alt="ZOcre Framework GitHub">
+    <img src="https://img.shields.io/badge/GitHub-ZOcre_Framework-24292F?style=for-the-badge&logo=github&logoColor=white" alt="ZOcre Framework GitHub">
   </a>
   <a href="https://discord.gg/Ey4dn4Cbqj">
     <img src="https://img.shields.io/badge/Discord-Officiel-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord officiel">
   </a>
   <a href="https://ko-fi.com/ncoreframework">
-    <img src="https://img.shields.io/badge/Ko--fi-Soutenir_NCore-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support ZOcre Framework">
+    <img src="https://img.shields.io/badge/Ko--fi-Soutenir_ZOcre-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support ZOcre Framework">
   </a>
 </p>
