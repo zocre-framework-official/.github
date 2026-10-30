@@ -1,19 +1,19 @@
 # ZOcre Framework — Public Repository Presentation Standard
 
-This document defines the mandatory public presentation baseline for official repositories under `ncore-framework-official`.
+This document defines the mandatory public presentation baseline for official repositories under `zocre-framework-official`.
 
 ## Header standard
 
 Every official ZOcre product/package repository README must begin with:
 
-1. the approved official product artwork, centered;
+1. the actual approved ZOcre product artwork, centered, once its original bytes are available;
 2. **fixed display width: 460 px** for the primary product artwork;
 3. centered H1 product/package name;
 4. centered one-line product description;
 5. centered badge row;
 6. a concise public status block.
 
-The source artwork may have a different native aspect ratio or resolution. Only its GitHub display width is normalized.
+Never substitute old branding or invent a replacement image. The source artwork may have a different native aspect ratio or resolution. Only its GitHub display width is normalized.
 
 ## README order
 
@@ -31,13 +31,13 @@ The source artwork may have a different native aspect ratio or resolution. Only 
 
 Public repositories contain only material explicitly approved for public distribution.
 
-Never publish private NCore source code, internal GDDs, production configuration, credentials, tokens, webhooks, private endpoints, qualification tooling, sensitive logs, player data or internal infrastructure details unless explicitly approved for public release.
+Never publish private ZOcre source code, internal GDDs, production configuration, credentials, tokens, webhooks, private endpoints, qualification tooling, sensitive logs, player data or internal infrastructure details unless explicitly approved for public release.
 
 ## Branding source of truth
 
 Approved public branding is maintained in:
 
-`ncore-framework-official/.github/BRANDING.md`
+`zocre-framework-official/.github/BRANDING.md`
 
 Primary product artwork displayed in repository READMEs must use the same 460 px presentation width.
 
