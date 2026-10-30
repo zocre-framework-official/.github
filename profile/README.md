@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/branding/ncore-framework-logo-official.png" alt="NCore Framework official logo" width="420">
+  <img src="assets/branding/ncore-framework-logo-official.png" alt="ZOcre Framework official logo" width="420">
 </p>
 
-<h1 align="center">NCore Framework</h1>
+<h1 align="center">ZOcre Framework</h1>
 
 <p align="center">
   <strong>Framework RP modulaire et outils officiels pour NANOS / nanos world.</strong><br>
@@ -17,7 +17,7 @@
 - **[Branding](https://github.com/ncore-framework-official/.github/blob/main/BRANDING.md)** — identités visuelles publiques officielles.
 - **[Support](https://github.com/ncore-framework-official/.github/blob/main/SUPPORT.md)** — règles et canaux de support public.
 
-> Les dépôts publics NCore apparaissent dans l'organisation uniquement après validation explicite de leur publication.
+> Les dépôts publics ZOcre apparaissent dans l'organisation uniquement après validation explicite de leur publication.
 
 ## Our Socials!
 

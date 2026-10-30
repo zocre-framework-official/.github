@@ -1,10 +1,10 @@
-# NCore Framework — Public Repository Presentation Standard
+# ZOcre Framework — Public Repository Presentation Standard
 
 This document defines the mandatory public presentation baseline for official repositories under `ncore-framework-official`.
 
 ## Header standard
 
-Every official NCore product/package repository README must begin with:
+Every official ZOcre product/package repository README must begin with:
 
 1. the approved official product artwork, centered;
 2. **fixed display width: 460 px** for the primary product artwork;

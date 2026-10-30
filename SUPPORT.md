@@ -1,8 +1,8 @@
-# NCore Framework — Support
+# ZOcre Framework — Support
 
 ## Français
 
-Pour l'aide publique, les annonces et les échanges avec la communauté NCore :
+Pour l'aide publique, les annonces et les échanges avec la communauté ZOcre :
 
 - **Discord officiel :** https://discord.gg/Ey4dn4Cbqj
 - **Organisation GitHub officielle :** https://github.com/ncore-framework-official
@@ -16,7 +16,7 @@ Avant de signaler un problème public :
 2. indiquez le produit/package et sa version ;
 3. décrivez les étapes permettant de reproduire le problème ;
 4. joignez uniquement les logs nécessaires et nettoyés de toute donnée sensible ;
-5. vérifiez qu'aucune information privée NCore ou donnée joueur n'est incluse.
+5. vérifiez qu'aucune information privée ZOcre ou donnée joueur n'est incluse.
 
 Ne publiez jamais :
 
@@ -33,7 +33,7 @@ Les vulnérabilités exploitables et informations de sécurité sensibles ne doi
 
 ## English
 
-For public help, announcements and NCore community discussion:
+For public help, announcements and ZOcre community discussion:
 
 - **Official Discord:** https://discord.gg/Ey4dn4Cbqj
 - **Official GitHub organization:** https://github.com/ncore-framework-official
@@ -47,8 +47,8 @@ Before filing a public issue:
 2. include the product/package name and version;
 3. provide reproducible steps;
 4. attach only the minimum sanitized logs required;
-5. verify that no private NCore material or sensitive player data is included.
+5. verify that no private ZOcre material or sensitive player data is included.
 
-Never publish passwords, tokens, API keys, private webhooks, private endpoints, sensitive player data, internal infrastructure details or material originating from a private NCore repository.
+Never publish passwords, tokens, API keys, private webhooks, private endpoints, sensitive player data, internal infrastructure details or material originating from a private ZOcre repository.
 
 Security vulnerabilities and sensitive security information must not be reported in a public issue. See [SECURITY.md](SECURITY.md).

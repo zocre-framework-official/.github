@@ -1,4 +1,4 @@
-# NCore Framework — Official Branding
+# ZOcre Framework — Official Branding
 
 This page contains public branding materials explicitly approved for presentation by NCore Framework.
 
@@ -6,23 +6,23 @@ The two logotypes below are the canonical public-safe NCore identities approved 
 
 The dark/black background used in source presentation artwork is **not part of the logo**. The approved Git distribution assets below use transparency and are uniform-scaled derivatives of the validated masters.
 
-## NCore
+## ZOcre
 
 <p align="center">
-  <img src="profile/assets/branding/ncore-logo-official.png" alt="NCore official logo" width="460">
+  <img src="profile/assets/branding/ncore-logo-official.png" alt="ZOcre official logo" width="460">
 </p>
 
-**Usage:** short NCore brand signature for products, interfaces, inventory assets and contexts where the NCore identity is already explicit.
+**Usage:** short ZOcre brand signature for products, interfaces, inventory assets and contexts where the ZOcre identity is already explicit.
 
 **Public Git asset SHA-256:** `005b3fe74ec7e1e8c330e3ae013de497d35eb6fad3f53202155ad5a9bfd233ee`
 
-## NCore Framework
+## ZOcre Framework
 
 <p align="center">
-  <img src="profile/assets/branding/ncore-framework-logo-official.png" alt="NCore Framework official logo" width="460">
+  <img src="profile/assets/branding/ncore-framework-logo-official.png" alt="ZOcre Framework official logo" width="460">
 </p>
 
-**Usage:** full signature for NCore Framework itself, framework presentation pages and official framework documentation.
+**Usage:** full signature for ZOcre Framework itself, framework presentation pages and official framework documentation.
 
 **Public Git asset SHA-256:** `85a954d775ad4c215be8db1eb0aab1ff4f155e09c889be4400e8550027e0b4b6`
 
@@ -42,18 +42,18 @@ Not allowed:
 - adding a symbol, monogram or alternate mark;
 - modifying one official variant to manufacture another.
 
-For branded NCore inventory images, the official logo asset must be composited unchanged. It must never be regenerated as part of the item image.
+For branded ZOcre inventory images, the official logo asset must be composited unchanged. It must never be regenerated as part of the item image.
 
-## NCore Control
+## ZOcre Control
 
 <p align="center">
-  <img src="profile/assets/branding/ncore-control-official.jpg" alt="NCore Control official logo" width="460">
+  <img src="profile/assets/branding/ncore-control-official.jpg" alt="ZOcre Control official logo" width="460">
 </p>
 
-## NCore Loading Screen
+## ZOcre Loading Screen
 
 <p align="center">
-  <img src="profile/assets/branding/ncore-loading-screen-official.webp" alt="NCore Loading Screen official visual identity" width="460">
+  <img src="profile/assets/branding/ncore-loading-screen-official.webp" alt="ZOcre Loading Screen official visual identity" width="460">
 </p>
 
 **Français :** ce visuel est l'identité visuelle officielle approuvée de NCore Loading Screen. Sa présence ici ne signifie pas que le package, son code ou une release publique est disponible.

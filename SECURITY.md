@@ -1,12 +1,12 @@
-# NCore Framework — Security Policy
+# ZOcre Framework — Security Policy
 
-NCore separates security reports from normal public support.
+ZOcre separates security reports from normal public support.
 
 ## Reporting a vulnerability
 
 Do **not** publish an exploitable vulnerability, bypass, credential, token, private endpoint, sensitive log or other security-sensitive information in a public GitHub issue, pull request or discussion.
 
-Use the official NCore Discord:
+Use the official ZOcre Discord:
 
 https://discord.gg/Ey4dn4Cbqj
 
@@ -22,11 +22,11 @@ Do not send secrets, proof-of-concept exploit code or private infrastructure det
 
 ## Politique de sécurité
 
-NCore sépare les signalements de sécurité du support public normal.
+ZOcre sépare les signalements de sécurité du support public normal.
 
 Ne publiez **jamais** publiquement une vulnérabilité exploitable, un contournement, un identifiant, un token, un endpoint privé, un log sensible ou une autre information de sécurité dans une issue, pull request ou discussion publique.
 
-Utilisez le Discord officiel NCore :
+Utilisez le Discord officiel ZOcre :
 
 https://discord.gg/Ey4dn4Cbqj
 

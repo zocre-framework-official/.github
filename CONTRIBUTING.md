@@ -1,4 +1,4 @@
-# Contributing to NCore Framework
+# Contributing to ZOcre Framework
 
 NCore Framework is developed privately and published selectively through the official public organization.
 
@@ -16,14 +16,14 @@ Before opening an issue:
 
 ## Source-code contributions
 
-NCore repositories may contain proprietary software.
+ZOcre repositories may contain proprietary software.
 
 A public repository does **not** automatically mean that unsolicited source-code pull requests are accepted. Code contributions are accepted only when the repository explicitly states that external contributions are open.
 
 Never submit:
 
 - code copied from FiveM, ESX, QBCore, RedM or another project without a compatible right to do so;
-- leaked or private NCore source code;
+- leaked or private ZOcre source code;
 - private GDD content;
 - secrets, tokens, webhooks or infrastructure details;
 - personal or player data.
@@ -32,6 +32,6 @@ Never submit:
 
 Les signalements publics, retours de documentation et propositions de fonctionnalités sont les bienvenus lorsque le dépôt concerné active les Issues.
 
-Un dépôt public NCore ne signifie pas automatiquement que les contributions de code externes sont ouvertes. Les pull requests de code ne sont acceptées que lorsque le dépôt l'indique explicitement.
+Un dépôt public ZOcre ne signifie pas automatiquement que les contributions de code externes sont ouvertes. Les pull requests de code ne sont acceptées que lorsque le dépôt l'indique explicitement.
 
 Aucun contenu provenant d'un dépôt privé NCore, aucun secret et aucune donnée sensible ne doit être publié.

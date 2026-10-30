@@ -1,6 +1,6 @@
-# NCore Framework — Official Public GitHub Organization
+# ZOcre Framework — Official Public GitHub Organization
 
-This repository powers the official public GitHub organization profile for **NCore Framework**:
+This repository powers the official public GitHub organization profile for **ZOcre Framework**:
 
 https://github.com/ncore-framework-official
 
