@@ -1,5 +1,5 @@
 name: Feature request
-description: Suggest an improvement for a public NCore product or package.
+description: Suggest an improvement for a public ZOcre product or package.
 title: "[Feature] "
 labels:
   - enhancement
@@ -9,9 +9,9 @@ body:
     attributes:
       label: Product / package
       options:
-        - NCore Control
-        - NCore Framework
-        - Other public NCore package
+        - ZOcre Control
+        - ZOcre Framework
+        - Other public ZOcre package
     validations:
       required: true
   - type: textarea
