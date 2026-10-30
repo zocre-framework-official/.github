@@ -11,9 +11,9 @@
 
 ## Directory
 
-- **[NCore Control](https://github.com/ncore-framework-official/ncore-control)** — application Windows officielle de gestion de serveurs NANOS / nanos world.
-- **[NCore Loading Screen](https://github.com/ncore-framework-official/ncore-loading-screen)** — écran de chargement officiel NCore.
-- **[NCore Control Releases](https://github.com/ncore-framework-official/ncore-control/releases)** — téléchargements publics officiels.
+- **[ZOcre Control](https://github.com/ncore-framework-official/ncore-control)** — application Windows officielle de gestion de serveurs NANOS / nanos world.
+- **[ZOcre Loading Screen](https://github.com/ncore-framework-official/ncore-loading-screen)** — écran de chargement officiel NCore.
+- **[ZOcre Control Releases](https://github.com/ncore-framework-official/ncore-control/releases)** — téléchargements publics officiels.
 - **[Branding](https://github.com/ncore-framework-official/.github/blob/main/BRANDING.md)** — identités visuelles publiques officielles.
 - **[Support](https://github.com/ncore-framework-official/.github/blob/main/SUPPORT.md)** — règles et canaux de support public.
 

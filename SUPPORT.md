@@ -6,9 +6,9 @@ Pour l'aide publique, les annonces et les échanges avec la communauté ZOcre :
 
 - **Discord officiel :** https://discord.gg/Ey4dn4Cbqj
 - **Organisation GitHub officielle :** https://github.com/ncore-framework-official
-- **NCore Control :** https://github.com/ncore-framework-official/ncore-control
-- **Releases NCore Control :** https://github.com/ncore-framework-official/ncore-control/releases
-- **NCore Loading Screen :** https://github.com/ncore-framework-official/ncore-loading-screen
+- **ZOcre Control :** https://github.com/ncore-framework-official/ncore-control
+- **Releases ZOcre Control :** https://github.com/ncore-framework-official/ncore-control/releases
+- **ZOcre Loading Screen :** https://github.com/ncore-framework-official/ncore-loading-screen
 
 Avant de signaler un problème public :
 
@@ -37,9 +37,9 @@ For public help, announcements and ZOcre community discussion:
 
 - **Official Discord:** https://discord.gg/Ey4dn4Cbqj
 - **Official GitHub organization:** https://github.com/ncore-framework-official
-- **NCore Control:** https://github.com/ncore-framework-official/ncore-control
-- **NCore Control releases:** https://github.com/ncore-framework-official/ncore-control/releases
-- **NCore Loading Screen:** https://github.com/ncore-framework-official/ncore-loading-screen
+- **ZOcre Control:** https://github.com/ncore-framework-official/ncore-control
+- **ZOcre Control releases:** https://github.com/ncore-framework-official/ncore-control/releases
+- **ZOcre Loading Screen:** https://github.com/ncore-framework-official/ncore-loading-screen
 
 Before filing a public issue:
 
