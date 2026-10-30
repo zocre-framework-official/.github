@@ -13,16 +13,16 @@
 
 - **[ZOcre Control](https://github.com/ncore-framework-official/ncore-control)** — application Windows officielle de gestion de serveurs NANOS / nanos world.
 - **[ZOcre Loading Screen](https://github.com/ncore-framework-official/ncore-loading-screen)** — écran de chargement officiel NCore.
-- **[ZOcre Control Releases](https://github.com/ncore-framework-official/ncore-control/releases)** — téléchargements publics officiels.
-- **[Branding](https://github.com/ncore-framework-official/.github/blob/main/BRANDING.md)** — identités visuelles publiques officielles.
-- **[Support](https://github.com/ncore-framework-official/.github/blob/main/SUPPORT.md)** — règles et canaux de support public.
+- **[ZOcre Control Releases](https://github.com/zocre-framework-official/zocre-control/releases)** — téléchargements publics officiels.
+- **[Branding](https://github.com/zocre-framework-official/.github/blob/main/BRANDING.md)** — identités visuelles publiques officielles.
+- **[Support](https://github.com/zocre-framework-official/.github/blob/main/SUPPORT.md)** — règles et canaux de support public.
 
 > Les dépôts publics ZOcre apparaissent dans l'organisation uniquement après validation explicite de leur publication.
 
 ## Our Socials!
 
 <p align="center">
-  <a href="https://github.com/ncore-framework-official">
+  <a href="https://github.com/zocre-framework-official">
     <img src="https://img.shields.io/badge/GitHub-NCore_Framework-24292F?style=for-the-badge&logo=github&logoColor=white" alt="ZOcre Framework GitHub">
   </a>
   <a href="https://discord.gg/Ey4dn4Cbqj">

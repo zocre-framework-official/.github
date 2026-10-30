@@ -5,10 +5,10 @@
 Pour l'aide publique, les annonces et les échanges avec la communauté ZOcre :
 
 - **Discord officiel :** https://discord.gg/Ey4dn4Cbqj
-- **Organisation GitHub officielle :** https://github.com/ncore-framework-official
-- **ZOcre Control :** https://github.com/ncore-framework-official/ncore-control
-- **Releases ZOcre Control :** https://github.com/ncore-framework-official/ncore-control/releases
-- **ZOcre Loading Screen :** https://github.com/ncore-framework-official/ncore-loading-screen
+- **Organisation GitHub officielle :** https://github.com/zocre-framework-official
+- **ZOcre Control :** https://github.com/zocre-framework-official/zocre-control
+- **Releases ZOcre Control :** https://github.com/zocre-framework-official/zocre-control/releases
+- **ZOcre Loading Screen :** https://github.com/zocre-framework-official/zocre-loading-screen
 
 Avant de signaler un problème public :
 
@@ -36,10 +36,10 @@ Les vulnérabilités exploitables et informations de sécurité sensibles ne doi
 For public help, announcements and ZOcre community discussion:
 
 - **Official Discord:** https://discord.gg/Ey4dn4Cbqj
-- **Official GitHub organization:** https://github.com/ncore-framework-official
-- **ZOcre Control:** https://github.com/ncore-framework-official/ncore-control
-- **ZOcre Control releases:** https://github.com/ncore-framework-official/ncore-control/releases
-- **ZOcre Loading Screen:** https://github.com/ncore-framework-official/ncore-loading-screen
+- **Official GitHub organization:** https://github.com/zocre-framework-official
+- **ZOcre Control:** https://github.com/zocre-framework-official/zocre-control
+- **ZOcre Control releases:** https://github.com/zocre-framework-official/zocre-control/releases
+- **ZOcre Loading Screen:** https://github.com/zocre-framework-official/zocre-loading-screen
 
 Before filing a public issue:
 

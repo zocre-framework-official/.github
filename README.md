@@ -2,7 +2,7 @@
 
 This repository powers the official public GitHub organization profile for **ZOcre Framework**:
 
-https://github.com/ncore-framework-official
+https://github.com/zocre-framework-official
 
 The rendered organization landing page is maintained in:
 
@@ -40,6 +40,6 @@ This repository also provides the public organization-wide community baseline:
 
 ## Official channels
 
-- GitHub: https://github.com/ncore-framework-official
+- GitHub: https://github.com/zocre-framework-official
 - Discord: https://discord.gg/Ey4dn4Cbqj
 - Ko-fi: https://ko-fi.com/ncoreframework
