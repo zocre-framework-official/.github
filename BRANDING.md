@@ -1,64 +1,41 @@
-# ZOcre Framework — Official Branding
+# ZOcre Framework — Identité visuelle officielle
 
-This page contains public branding materials explicitly approved for presentation by ZOcre Framework.
+La marque publique et les produits de cet écosystème utilisent exclusivement **ZOcre**.
 
-The two logotypes below are source artwork approved on **2026-10-06** and awaiting the ZOcre name-only migration. Preserve their typography, spacing, proportions, composition and metallic treatment; their current lettering is not a completed ZOcre visual.
-
-The dark/black background used in source presentation artwork is **not part of the logo**. The approved Git distribution assets below use transparency and are uniform-scaled derivatives of the validated masters.
-
-## ZOcre
-
-<p align="center">
-  <img src="profile/assets/branding/ncore-logo-official.png" alt="ZOcre official logo" width="460">
-</p>
-
-**Usage:** short ZOcre brand signature for products, interfaces, inventory assets and contexts where the ZOcre identity is already explicit.
-
-**Public Git asset SHA-256:** `005b3fe74ec7e1e8c330e3ae013de497d35eb6fad3f53202155ad5a9bfd233ee`
+Les nouveaux fichiers maîtres de **ZOcre Framework**, **ZOcre Control** et **ZOcre Loading Screen** sont conservés dans la bibliothèque d'images du projet. Toute publication dans ce dépôt doit utiliser les fichiers d'origine validés, sans recréation ni remplacement par une ancienne identité.
 
 ## ZOcre Framework
 
+<!-- ZOCRE_FRAMEWORK_ARTWORK_START -->
 <p align="center">
-  <img src="profile/assets/branding/ncore-framework-logo-official.png" alt="ZOcre Framework official logo" width="460">
+  <img src="https://github.com/zocre-framework-official.png" alt="Avatar GitHub officiel ZOcre Framework" width="260">
 </p>
-
-**Usage:** full signature for ZOcre Framework itself, framework presentation pages and official framework documentation.
-
-**Public Git asset SHA-256:** `85a954d775ad4c215be8db1eb0aab1ff4f155e09c889be4400e8550027e0b4b6`
-
-## Integrity and usage rules
-
-Allowed:
-- uniform scaling;
-- positioning;
-- compositing the unchanged official asset over another visual.
-
-Not allowed:
-- redraw or recreation;
-- AI/image-generation reinterpretation;
-- typography, spacing or proportion changes;
-- recoloring;
-- stretching or distortion;
-- adding a symbol, monogram or alternate mark;
-- modifying one official variant to manufacture another.
-
-For branded ZOcre inventory images, the official logo asset must be composited unchanged. It must never be regenerated as part of the item image.
+<!-- ZOCRE_FRAMEWORK_ARTWORK_END -->
 
 ## ZOcre Control
 
-<p align="center">
-  <img src="profile/assets/branding/ncore-control-official.jpg" alt="ZOcre Control official logo" width="460">
-</p>
+Le visuel maître ZOcre Control doit être publié depuis la bibliothèque d'images officielle, puis référencé ici. Aucun ancien visuel n'est affiché comme s'il s'agissait de son nouveau logo.
+
+<!-- ZOCRE_CONTROL_ARTWORK_START -->
+<!-- ZOCRE_CONTROL_ARTWORK_END -->
 
 ## ZOcre Loading Screen
 
-<p align="center">
-  <img src="profile/assets/branding/ncore-loading-screen-official.webp" alt="ZOcre Loading Screen official visual identity" width="460">
-</p>
+Le visuel maître ZOcre Loading Screen doit être publié depuis la bibliothèque d'images officielle, puis référencé ici.
 
-**Français :** ce visuel est l'identité visuelle officielle approuvée de NCore Loading Screen. Sa présence ici ne signifie pas que le package, son code ou une release publique est disponible.
+<!-- ZOCRE_LOADING_ARTWORK_START -->
+<!-- ZOCRE_LOADING_ARTWORK_END -->
 
-**English:** this artwork is the approved official visual identity of NCore Loading Screen. Its presence here does not mean that the package, its code or a public release is available.
+## Règles de diffusion
+
+- Utiliser exclusivement les fichiers graphiques officiels validés, et ne jamais régénérer leurs inscriptions.
+- Garder leurs proportions et leur qualité d'origine : redimensionnement d'affichage uniforme uniquement.
+- Afficher les visuels de présentation des dépôts officiels à **460 px de largeur**.
+- Vérifier le texte effectivement intégré dans chaque image avant de la publier.
+- Garder hors des dépôts publics les sources privées, outils internes, secrets et documents confidentiels.
+- Conserver les noms techniques historiques uniquement le temps d'une migration de compatibilité explicitement qualifiée.
+
+Voir [la norme de présentation publique](PUBLIC-REPOSITORY-STANDARD.md).
 
 ---
 
