@@ -27,7 +27,7 @@ Ne publiez jamais :
 - adresse ou donnée personnelle non nécessaire ;
 - donnée joueur sensible ;
 - détail d'infrastructure interne ;
-- contenu provenant d'un dépôt privé NCore.
+- contenu provenant d'un dépôt privé ZOcre.
 
 Les vulnérabilités exploitables et informations de sécurité sensibles ne doivent pas être publiées dans une issue publique. Consultez [SECURITY.md](SECURITY.md).
 
