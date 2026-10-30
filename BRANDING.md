@@ -1,8 +1,8 @@
 # ZOcre Framework — Official Branding
 
-This page contains public branding materials explicitly approved for presentation by NCore Framework.
+This page contains public branding materials explicitly approved for presentation by ZOcre Framework.
 
-The two logotypes below are the canonical public-safe NCore identities approved on **2026-10-06**. Their lettering, spacing, proportions, composition and metallic treatment are immutable.
+The two logotypes below are source artwork approved on **2026-10-06** and awaiting the ZOcre name-only migration. Preserve their typography, spacing, proportions, composition and metallic treatment; their current lettering is not a completed ZOcre visual.
 
 The dark/black background used in source presentation artwork is **not part of the logo**. The approved Git distribution assets below use transparency and are uniform-scaled derivatives of the validated masters.
 

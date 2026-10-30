@@ -23,12 +23,12 @@
 
 <p align="center">
   <a href="https://github.com/ncore-framework-official">
-    <img src="https://img.shields.io/badge/GitHub-NCore_Framework-24292F?style=for-the-badge&logo=github&logoColor=white" alt="NCore Framework GitHub">
+    <img src="https://img.shields.io/badge/GitHub-NCore_Framework-24292F?style=for-the-badge&logo=github&logoColor=white" alt="ZOcre Framework GitHub">
   </a>
   <a href="https://discord.gg/Ey4dn4Cbqj">
     <img src="https://img.shields.io/badge/Discord-Officiel-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord officiel">
   </a>
   <a href="https://ko-fi.com/ncoreframework">
-    <img src="https://img.shields.io/badge/Ko--fi-Soutenir_NCore-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support NCore Framework">
+    <img src="https://img.shields.io/badge/Ko--fi-Soutenir_NCore-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support ZOcre Framework">
   </a>
 </p>

@@ -1,6 +1,6 @@
 # Contributing to ZOcre Framework
 
-NCore Framework is developed privately and published selectively through the official public organization.
+ZOcre Framework is developed privately and published selectively through the official public organization.
 
 ## Public contributions
 
@@ -34,4 +34,4 @@ Les signalements publics, retours de documentation et propositions de fonctionna
 
 Un dépôt public ZOcre ne signifie pas automatiquement que les contributions de code externes sont ouvertes. Les pull requests de code ne sont acceptées que lorsque le dépôt l'indique explicitement.
 
-Aucun contenu provenant d'un dépôt privé NCore, aucun secret et aucune donnée sensible ne doit être publié.
+Aucun contenu provenant d'un dépôt privé ZOcre, aucun secret et aucune donnée sensible ne doit être publié.

@@ -10,7 +10,7 @@ The rendered organization landing page is maintained in:
 
 ## Public-only organization
 
-`ncore-framework-official` is the exclusive namespace for newly approved official public NCore repositories, releases and public documentation.
+`ncore-framework-official` is the exclusive namespace for newly approved official public ZOcre repositories, releases and public documentation.
 
 Private development remains outside this organization.
 
