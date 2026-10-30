@@ -1,5 +1,5 @@
 name: Bug report
-description: Report a reproducible problem in a public NCore product or package.
+description: Report a reproducible problem in a public ZOcre product or package.
 title: "[Bug] "
 labels:
   - bug
@@ -9,8 +9,8 @@ body:
     attributes:
       label: Product / package
       options:
-        - NCore Control
-        - Other public NCore package
+        - ZOcre Control
+        - Other public ZOcre package
     validations:
       required: true
   - type: input
@@ -56,5 +56,5 @@ body:
     attributes:
       label: Public-safe confirmation
       options:
-        - label: I removed secrets, private NCore material and sensitive data from this report.
+        - label: I removed secrets, private ZOcre material and sensitive data from this report.
           required: true
