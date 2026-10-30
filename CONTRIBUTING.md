@@ -8,7 +8,7 @@ Public bug reports, documentation feedback and feature suggestions are welcome w
 
 Before opening an issue:
 
-- use an official public NCore release or package;
+- use an official public ZOcre release or package;
 - identify the affected product/package and version;
 - provide clear reproducible steps when reporting a bug;
 - attach only sanitized logs;
